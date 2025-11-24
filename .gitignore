@@ -1,0 +1,21 @@
+fashion data set/
+clip_outputs/
+data/
+data excel/
+*.npy
+*.npz
+*.index
+*.pt
+*.pth
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+*.bmp
+*.zip
+*.tar
+*.gz
+.ipynb_checkpoints/
+__pycache__/
+
